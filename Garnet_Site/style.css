@@ -1,0 +1,39 @@
+body {
+	background-color: #ECE0F8;
+	/*font: 16px Optima, Helvetica, sans-serif;*/
+	font: 16px Optima,Segoe,Segoe UI,Candara,Calibri,Arial,sans-serif;
+}
+#principal {
+	width: 900px;
+	
+}
+#menu {
+	background:#D0A9F5;
+	padding: 18px;
+	margin-bottom: 5px; /*quero distanciar essas letras uma da outra*/
+
+}
+#conteudo{
+	text-align: left;
+	color: #610B0B;
+	background: #ECE0F8;/*pink;*/
+	padding:18px;
+}
+ .img{
+ 	width: 600px;
+ 	border: 5px solid #D0A9F5;
+ 	object-position: center;
+ 	margin-left: 150px
+ }
+ #rodape{
+ 	margin-top: 5px;
+ 	padding: 5px;
+ 	background: #D0A9F5;
+ 	color: navy;
+ 	text-align:center;
+ }
+.imagencentralizada {
+	margin-left: 150px
+	border:5px solid #D0A9F5 ;
+}
+
