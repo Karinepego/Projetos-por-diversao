@@ -1,0 +1,47 @@
+/**** site no geral *****/
+ body {
+ 	background: #f4f4ed;
+ 	font-family: "Lucida Console", Courier, monospace;
+ }
+
+
+ #container {
+ 	margin: 0 auto;
+ 	width: 1080px;
+
+ }
+
+ a:link, a:active, a:visited {
+ 	color: #fff;
+ 	text-decoration: none;
+ }
+a:hover {
+	color: #b2bfb6; 
+}
+ /*cabecalho*/
+
+header  {
+	padding: 5px 0;
+	background-color:#9a9da7;
+	height: 250px;
+}
+
+#logo h1 {
+	float: left;
+}
+
+#logo a {
+	text-indent: -9999px;
+	display: inline-block;
+	background: url(../imagens/logo2.jpg) no-repeat;
+	background-size: 300px;
+	width: 248px;
+	height: 21px;
+
+	
+}
+
+h1 {
+
+
+}
